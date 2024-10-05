@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+}
+event-list li:hover{
+    color: blue;
+}
+h1{
+    color: blanchedalmond;
+    margin-left: 180px;
+}
+h2{
+    color: brown;
+    margin: left 230px;
+}
+.SWE{
+    width: 600px;
+    height:500px;
+    margin: auto;
+}
