@@ -1,0 +1,18 @@
+li{
+    display: block;
+    padding: 10px;
+    background-color: rgb(243, 230, 134);
+    color: rgba(15, 15, 17, 0.686);
+    width: 120px;
+    transition-duration: 0.5s;
+    border-radius: 0.5cap;
+}
+ul{
+    display: block;
+    padding: 30px;
+    background-color: rgb(32, 192, 93);
+    color: rgb(230, 77, 35);
+    width: 10px;
+    transition-duration: 0.5s;
+    border-radius: 0.2cap;
+}

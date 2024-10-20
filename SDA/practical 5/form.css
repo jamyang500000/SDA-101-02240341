@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+}
+.event-list li:hover{
+    color: blueviolet;
+}
+.SWE{
+    width:600px;
+    height: 500;
+    margin: auto;
+}
